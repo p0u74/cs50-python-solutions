@@ -7,8 +7,8 @@ This repository contains my solutions to the problem sets for [CS50P](https://cs
 | Week | Topic | Problem Set | Status |
 |:---:|:---|:---|:---:|
 | 0 | Functions, Variables | Indoor, Playback, Faces, Einstein, Tip | ✅ |
-| 1 | Conditionals | Deep, Bank, Extensions, Interpreter, Meal | 🚧 |
-| 2 | Loops | Camel, Coke, Twttr, Plates, Nutrition | ⬜ |
+| 1 | Conditionals | Deep, Bank, Extensions, Interpreter, Meal | ✅ |
+| 2 | Loops | Camel, Coke, Twttr, Plates, Nutrition | 🚧 |
 | 3 | Exceptions | Fuel, Taqueria, Grocery, Outdated | ⬜ |
 | 4 | Libraries | Emojis, Figlet, Adieu, Game, Professor, Bitcoin | ⬜ |
 | 5 | Unit Tests | Testing mytwttr, bank, plates, fuel | ⬜ |
